@@ -1,12 +1,8 @@
-# https-Practico6.github.io
 <HTML>
-
 <head>
-
 <title> Teoría del color </title>
-
 </head>
-
+  
 <body> 
 <h1>La teoría del color</h1>
 <h2>Introducción</h2>
