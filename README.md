@@ -1,6 +1,8 @@
 <HTML>
 <head>
-<title> Teoría del color </title>
+<title> 
+  Teoría del color 
+</title>
 </head>
   
 <body> 
@@ -101,7 +103,7 @@
 </table>
 <p><a href="#secundarios">Ir a los colores secundarios</a></p>
 
-<a href="TeoriaDelColor.html"> Mas información </a>
+<a href="TeoriaDelColor.HTML"> Mas información </a>
 
 </body>
 </html>
